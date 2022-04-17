@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @backendtu
+- 👀 I’m interested in FiveM script development and mlo making
+- 📫 You can reach me on discord, BackendTu#8705 or https://discord.gg/Aaf6w8cWvG
