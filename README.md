@@ -1,5 +1,5 @@
 # 🤓About Me:
-✨ Trusted by 200+ Customers.<br>🖥️ FiveM & Web Developer.<br>👨‍💻 Coding since 2020.
+✨ Trusted by 200+ Customers.<br>🖥️ FiveM & Web Developer.<br>👨‍💻 Coding since 2020.<br>📋 For Hire!
 
 
 ## 🌐 Socials:
@@ -11,7 +11,3 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gmtotu) 
-
-  
